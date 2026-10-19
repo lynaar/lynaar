@@ -1,129 +1,132 @@
-# lyna-arezki
-# 👋 Hi, I'm Lyna
+<!-- PROFILE HEADER -->
 
-### 🎓 AI Master's Student | 🤖 Deep Learning | 👁️ Computer Vision
-
-*Turning ideas into practical AI projects.*
-
----
-
-## 🧠 About Me
-
-I'm a Master's student specializing in Artificial Intelligence, passionate about **Deep Learning, Computer Vision, and intelligent systems**.
-
-I enjoy learning through hands-on projects, experimenting with neural networks, and building practical solutions that connect AI research with real-world applications.
-
-- 🔭 Exploring Deep Learning and Computer Vision
-- 🌱 Improving my skills through practical AI projects
-- 🛰️ Interested in satellite imagery and remote sensing
-- 💻 Background in full-stack web development
-- 🎯 Goal: Build impactful AI solutions and grow as an AI engineer
-
----
-
-## ⚡ Tech Stack
-
-### 🤖 AI & Data Science
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-</p>
-
-### 🗄️ Databases & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🌾 CROPS — Crop Classification with Deep Learning
-
-Exploring crop classification using multi-temporal Sentinel-2 satellite data, environmental covariates, and neural network architectures.
-
-**Focus:** PyTorch · Deep Learning · Remote Sensing · Time Series
-
-🔗 [Explore CROPS](https://github.com/lynaar/crops)
-
-### ♻️ AI Waste Classifier
-
-An image classification project using transfer learning to recognize different waste categories.
-
-**Focus:** Python · PyTorch · ResNet18 · Computer Vision
-
-🔗 [Explore AI Waste Classifier](https://github.com/lynaar/ai-waste-classifier)
-
-### 🎟️ Almas — Event Ticketing Platform
-
-A web platform concept for event management, participant registration, PDF tickets, and QR-code generation.
-
-**Focus:** React · Next.js · Node.js · MySQL
-
-### 🛡️ Web Security Lab
-
-An academic project exploring web application security, phishing awareness, and SQL injection prevention.
-
-**Focus:** Python · Flask · Web Security
-
----
-
-## 📚 Currently Learning
-
-- 🧠 Neural networks and model optimization
-- 👁️ Image classification and computer vision
-- 📊 Data analysis and experimental evaluation
-- 🛰️ Multi-source satellite data processing
-- 🚀 Building reproducible AI projects
-
----
-
-## 📈 My GitHub Activity
+<h1 align="center">LYNA AREZKI</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lynaar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynaar&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
+  <b>Artificial Intelligence · Deep Learning · Computer Vision</b>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lynaar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  Master's Student in Artificial Intelligence
+  <br/>
+  Building practical solutions through machine learning and software development.
 </p>
 
----
-
-## 🤝 Let's Connect
-
-I'm always interested in learning, collaborating on interesting projects, and exploring new ideas in Artificial Intelligence.
-
-<p>
+<p align="center">
   <a href="https://github.com/lynaar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub Profile"/>
   </a>
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-7057ff?style=flat-square" alt="Focus: Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Approach-Learning%20by%20Building-2563eb?style=flat-square" alt="Learning by Building"/>
+</p>
+
+---
+
+## About
+
+I'm a Master's student in Artificial Intelligence with an interest in **Deep Learning, Computer Vision, and intelligent systems**.
+
+I enjoy turning concepts into practical projects, experimenting with neural network architectures, and developing solutions that combine research, data, and software engineering.
+
+- **Currently exploring:** Deep Learning and Computer Vision
+- **Research interests:** Satellite imagery, remote sensing, time-series analysis
+- **Development background:** Full-stack web applications
+- **Objective:** Develop reliable AI solutions and pursue an AI-focused internship
+
+---
+
+## Technical Skills
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI & Data</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Machine%20Learning-64748b?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Computer%20Vision-7c3aed?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Web Development</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>Databases</h3>
+      <p>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+    </td>
+    <td valign="top">
+      <h3>Tools</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Selected Projects
+
+### 01 · CROPS
+**Deep Learning for Agricultural Crop Classification**
+
+Reproduction and improvement of deep learning approaches for crop classification using multi-temporal Sentinel-2 satellite data and environmental covariates.
+
+`PyTorch` `Deep Learning` `Remote Sensing` `Time Series`
+
+[View repository →](https://github.com/lynaar/crops)
+
+### 02 · AI Waste Classifier
+**Image Classification with Transfer Learning**
+
+A computer vision project exploring waste classification across six categories using a pretrained ResNet18 model.
+
+`Python` `PyTorch` `ResNet18` `Computer Vision`
+
+[View repository →](https://github.com/lynaar/ai-waste-classifier)
+
+### 03 · Almas
+**Event Management & Digital Ticketing**
+
+A web development project focused on event management, participant registration, and digital ticket generation.
+
+`React` `Next.js` `Node.js` `MySQL`
+
+### 04 · Web Security Lab
+**Academic Web Security Projects**
+
+Practical exploration of web security concepts, phishing awareness, and SQL injection in an educational environment.
+
+`Python` `Flask` `Web Security`
+
+---
+
+## GitHub Overview
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lynaar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=C9D1D9" alt="GitHub statistics"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynaar&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Learn by building. Improve by experimenting.”</i>
+  <b>Learn continuously. Build thoughtfully. Improve through experimentation.</b>
 </p>
